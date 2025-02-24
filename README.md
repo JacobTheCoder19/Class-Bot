@@ -25,7 +25,7 @@
 </div>
 
 <h2><em>✨ Purpose / Inspiration ✨</em></h2>
-&emsp;This projects inspiration cam from me wanting to have to do less work. I got tired of having to log into my online classroom and open up all the websites I need every time I get to class. So I decided that I could make something to automate it so I could just go to class and run the program and be completely ready before class starts. This program also made it easier so that I can run it and while it's getting my computer set up I can get my physical self set up like getting my folders and books out.
+&emsp;This projects inspiration came from me wanting to have to do less work. I got tired of having to log into my online classroom and open up all the websites I need every time I get to class. So I decided that I could make something to automate it so I could just go to class and run the program and be completely ready before class starts. This program also made it easier so that I can run it and while it's getting my computer set up I can get my physical self set up like getting my folders and books out.
 
 <h2><em>⚙️ How it works ⚙️</em></h2>
 
